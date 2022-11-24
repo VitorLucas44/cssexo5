@@ -11,7 +11,7 @@
     color: grey;
 
 }
-button{
+.buttton{
     margin-left: 700px;
     width: 150px;
     height: 50px;
@@ -20,6 +20,7 @@ button{
     background-color: darkorchid;
     border: none;
     color: white;
+    text-align: center;
 }
 
 .cod{
@@ -46,7 +47,7 @@ button{
     display: flex;
 }
 
-.buttonM{
+.butttonM{
     margin-left: 700px;
     width: 150px;
     height: 50px;
@@ -55,6 +56,40 @@ button{
     background-color: red;
     border: none;
     color: white;
+    text-align: center;
+}
+
+
+
+
+.mark{
+    margin-left: 30px;
+}
+.h1{
+    margin: 5px;
+    padding: 5px;
+    font-size: 150px;
+}
+
+
+.vert{
+    border: 2px solid green;
+    border-width: 10px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+}
+
+.butttonW{
+    margin-left: 700px;
+    width: 150px;
+    height: 50px;
+    margin-top: 70px;
+    margin-right: 100px;
+    background-color: green;
+    border: none;
+    color: white;
+    text-align: center;
 }
 
 .mark{
@@ -66,6 +101,67 @@ button{
     font-size: 150px;
 }
 
+
+
+
+.jaune{
+    border: 2px solid yellow;
+    border-width: 10px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+}
+
+.butttonJ{
+    margin-left: 700px;
+    width: 150px;
+    height: 50px;
+    margin-top: 70px;
+    margin-right: 100px;
+    background-color: yellow;
+    border: none;
+    color: white;
+    text-align: center;
+}
+
+.aws{
+    margin-left: 30px;
+}
+.h1{
+    margin: 5px;
+    padding: 5px;
+    font-size: 150px;
+}
+
+
+.bleu{
+    border: 2px solid blue;
+    border-width: 10px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+}
+
+.butttonB{
+    margin-left: 700px;
+    width: 150px;
+    height: 50px;
+    margin-top: 70px;
+    margin-right: 100px;
+    background-color: blue;
+    border: none;
+    color: white;
+    text-align: center;
+}
+
+.sa{
+    margin-left: 30px;
+}
+.h1{
+    margin: 5px;
+    padding: 5px;
+    font-size: 150px;
+}
 
 
 
